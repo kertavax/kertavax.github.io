@@ -4,12 +4,36 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hailing from Iceland, Egill Runar Vidarsson (Egill Rúnar Viðarsson) is an interdisciplinary designer who often wears many hats when part of various design projects. In 2012, he graduated from Iceland Academy of the Arts with a BA in Visual Communication and has since then produced works in both digital and analog formats (and various hybrids thereof). Among applications Egill favors is branding, typography, motion graphics, photography, UI/UX design, front-end development and physical computing / hacking of any kind. He is particularly interested in conceptual projects where such diverse mediums and contributions come together to realize a collective execution informed by research and exploration.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+One of Egill’s main research topics at the moment is the analysis of tacit cultural behaviors and the many unwritten rules of various social play inside and outside of workplaces. Being fascinated by the awkward moments that surface when an unfamiliar person inadvertently breaks an implicit rule, Egill is drawn to reverse engineer these occurrences to explore their hidden structures and meaning.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+### CV
+
+<table>
+  <tr>
+	<th>Period</th>
+	<th>Activity</th>
+	<th>Place</th>
+  </tr>
+  <tr>
+	<td>2015 – 2017</td>
+	<td>MDes Digital Futures</td>
+	<td>OCAD University (Toronto, Canada)</td>
+  </tr>
+  <tr>
+	<td>2016 (Jun – Nov)</td>
+	<td>(UI/UX Designer)</td>
+	<td>(ReBlink, or, Alex Mayhew Digital?) (Toronto, Canada)</td>
+  </tr>
+  <tr>
+	<td>2012 – 2015</td>
+	<td>New Media / Traditional</td>
+	<td>Hvita husid, advertising agency (Reykjavik, Iceland)</td>
+  </tr>
+  <tr>
+	<td>2009 – 2012</td>
+	<td>BA Visual Communication</td>
+	<td>Iceland Academy of the Arts (Reykjavik, Iceland)</td>
+  </tr>
+</table>
