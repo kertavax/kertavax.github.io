@@ -3,6 +3,8 @@ layout: post
 title:  "Love Poems by Páll Ólafsson"
 date:   2011-09-01
 categories: poems print binding
+context: "Iceland Academy of the Arts"
+context_link: "http://www.lhi.is/en"
 ---
 A series of love poems by Páll Ólafsson named Eg skal kveða um eina þig alla mína daga (roughly translated; I will write of only you for the rest of my days). The title is impressed on a red, loose leather which covers the creamy pages within and everything is held together with a thick, texture-rich seam.
 

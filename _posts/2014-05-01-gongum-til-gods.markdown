@@ -3,9 +3,9 @@ layout: post
 title:  "Göngum til góðs"
 date:   2014-05-01
 categories: digital media campaign
+context: "Hvíta húsið"
+context_link: "www.hvitahusid.is/is"
 ---
-
-<strong>Worked on while employed at [Hvíta húsið](http://www.hvitahusid.is).</strong>
 
 How we used the power of nostalgia to get people walking door to door.
 

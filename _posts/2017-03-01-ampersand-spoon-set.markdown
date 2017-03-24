@@ -3,6 +3,8 @@ layout: post
 title:  "Ampersand Spoon-Set"
 date:   2017-03-1
 categories: 3D-printing
+context: "OCAD University"
+context_link: "http://www.ocadu.ca/academics/graduate-studies/digital-futures.htm"
 ---
 
 The Ampersand Spoon Set entwines the topics of role multiplicity and typography. When joined together and viewed from a certain angle the two curved spoons form an ampersand archetype (&).

@@ -3,6 +3,8 @@ layout: post
 title:  "Nornaseyði – A Herbal Medicine"
 date:   2011-09-10
 categories: herbal medicine packaging logo branding Lóa Baldvinsdóttir
+context: "Iceland Academy of the Arts"
+context_link: "http://www.lhi.is/en"
 ---
 A unique mixture of mountain based herbs which has amazing healing powers that are released when fused with water. The mixture can be drunk, breathed in or used as a form of warm ointment on sore muscles and tendons.
 

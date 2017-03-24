@@ -3,6 +3,8 @@ layout: post
 title:  "Self Portrait"
 date:   2010-11-01
 categories: self portrait
+context: "Iceland Academy of the Arts"
+context_link: "http://www.lhi.is/en"
 ---
 The graphic artist in the making – all sketched up and not quite sure of himself – needs not to worry for it's obvious he has the glissening and colorful “it” (in my case; musical inspiration and outlet) inside of himself, just waiting to be dragged out and be noticed by the world.
 

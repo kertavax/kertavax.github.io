@@ -3,6 +3,8 @@ layout: post
 title:  "2012 Mæna Article"
 date:   2011-10-01
 categories: illustration print layout lettering
+context: "Iceland Academy of the Arts"
+context_link: "http://www.lhi.is/en"
 ---
 
 An article, “Undir oki séríslensku bókstafanna?” by Gylfi Ólafsson in the 3rd issue of [Mæna](www.maena.is). The article's undertone apparent in the illustrations, custom lettering and data visualization is derived from the article’s content and title which roughly translates as “Under the Pressure of the Icelandic Letters?”

@@ -3,6 +3,8 @@ layout: post
 title:  "Wood-E"
 date:   2015-12-14
 categories: physical computing
+context: "OCAD University"
+context_link: "http://www.ocadu.ca/academics/graduate-studies/digital-futures.htm"
 ---
 Meet WOOD-e.
 

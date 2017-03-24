@@ -3,6 +3,8 @@ layout: post
 title:  "Krossfari Typeface"
 date:   2011-09-01
 categories: typography typeface
+context: "Iceland Academy of the Arts"
+context_link: "http://www.lhi.is/en"
 ---
 
 In September 2011, following a month long developing stage with emphasis on geometry and proportion, the still-in-progress typeface Krossfari (Crusader) made its debut. Inspiration was sought from Edward Johnston's Johnston Sans typeface.

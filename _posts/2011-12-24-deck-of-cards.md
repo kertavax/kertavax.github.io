@@ -3,6 +3,8 @@ layout: post
 title:  "Deck of Cards"
 date:   2011-12-24
 categories: playing cards game print packaging
+context: "Iceland Academy of the Arts"
+context_link: "http://www.lhi.is/en"
 ---
 
 My attempt with the classic deck of playing cards. With influences from the Middle-East inspiring the symbols for the suits and the numbers, I wanted all the roalty cards to tone well with one another. Overall, 14 decks were made and cut by hand as holiday gifts for family and friends.

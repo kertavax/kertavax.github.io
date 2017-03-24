@@ -3,6 +3,8 @@ layout: post
 title:  "Jouissance"
 date:   2016-04-10
 categories: sci-fi short-film
+context: "OCAD University"
+context_link: "http://www.ocadu.ca/academics/graduate-studies/digital-futures.htm"
 ---
 
 A short sci-fi film made by a group of six graduate students in OCAD University Digital Futures Master Program. All scenes were shot in Toronto.

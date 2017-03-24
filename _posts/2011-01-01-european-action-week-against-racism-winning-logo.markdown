@@ -3,6 +3,8 @@ layout: post
 title:  "European Action Week Against Racism"
 date:   2011-01-01
 categories: racism logo competition
+context: "Iceland Academy of the Arts"
+context_link: "http://www.lhi.is/en"
 ---
 My winning submission for a logo competition run by The Icelandic Human Rights Centre regarding their European Action Week Against Racism.
 

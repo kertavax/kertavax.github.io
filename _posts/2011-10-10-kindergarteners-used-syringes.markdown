@@ -3,6 +3,8 @@ layout: post
 title:  "Kindergarteners and Used Syringes"
 date:   2011-09-10
 categories: herbal medicine packaging logo branding Lóa Baldvinsdóttir
+context: "Iceland Academy of the Arts"
+context_link: "http://www.lhi.is/en"
 ---
 We were briefed to make a powerful opening spread for a fictional magazine article. I thought of recent news where used syringes of drug addicts were being discovered around kindergartens.
 

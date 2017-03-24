@@ -3,6 +3,8 @@ layout: post
 title:  "Helvetica Chocolate"
 date:   2011-09-01
 categories: typography chocolate
+context: "Iceland Academy of the Arts"
+context_link: "http://www.lhi.is/en"
 ---
 
 For people who’ve had their fill of the infamous, Swiss typeface.

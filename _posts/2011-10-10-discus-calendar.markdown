@@ -3,6 +3,8 @@ layout: post
 title:  "Discus Calendar"
 date:   2011-10-10
 categories: calendar norse pagan
+context: "Iceland Academy of the Arts"
+context_link: "http://www.lhi.is/en"
 ---
 A modern version of a pagan calendar.
 

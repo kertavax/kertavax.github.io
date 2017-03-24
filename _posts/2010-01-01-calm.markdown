@@ -3,6 +3,8 @@ layout: post
 title:  "Calm"
 date:   2010-01-01
 categories: installation
+context: "Iceland Academy of the Arts"
+context_link: "http://www.lhi.is/en"
 ---
 A video installation to get people to take a breather.
 

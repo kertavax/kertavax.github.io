@@ -3,6 +3,8 @@ layout: post
 title:  "Spark – A Collaborative BA Graduation Project"
 date:   2012-04-04
 categories: branding
+context: "Iceland Academy of the Arts"
+context_link: "http://www.lhi.is/en"
 ---
 
 To brand and build an electric racing car.

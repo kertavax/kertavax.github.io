@@ -3,6 +3,8 @@ layout: post
 title:  "Cover Suggestions for Mæna 2012"
 date:   2011-10-01
 categories: photography magazine design conceptual
+context: "Iceland Academy of the Arts"
+context_link: "http://www.lhi.is/en"
 ---
 My suggestions for the cover of the 3rd issue of [Mæna (2012) – Type, Nationality and Language](http://www.maena.is).
 

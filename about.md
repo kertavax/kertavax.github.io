@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+[Profile pic]
+
 Hailing from Iceland, Egill Runar Vidarsson (Egill Rúnar Viðarsson) is an interdisciplinary designer who often wears many hats when part of various design projects. In 2012, he graduated from Iceland Academy of the Arts with a BA in Visual Communication and has since then produced works in both digital and analog formats (and various hybrids thereof). Among applications Egill favors is branding, typography, motion graphics, photography, UI/UX design, front-end development and physical computing / hacking of any kind. He is particularly interested in conceptual projects where such diverse mediums and contributions come together to realize a collective execution informed by research and exploration.
 
 One of Egill’s main research topics at the moment is the analysis of tacit cultural behaviors and the many unwritten rules of various social play inside and outside of workplaces. Being fascinated by the awkward moments that surface when an unfamiliar person inadvertently breaks an implicit rule, Egill is drawn to reverse engineer these occurrences to explore their hidden structures and meaning.

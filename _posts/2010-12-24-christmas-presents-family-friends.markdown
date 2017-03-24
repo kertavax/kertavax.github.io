@@ -4,6 +4,8 @@ title:  "Christmas Presents 2010 |
 T-shirts for Family & Friends"
 date:   2010-12-24
 categories: christmas presents t-shirts
+context: "Iceland Academy of the Arts"
+context_link: "http://www.lhi.is/en"
 ---
 Since Iceland Academy of the Arts has a silk screening facility, I decided to use it to my advantage and made a bunch of T-shirts for my family and friends as christmas presents. The designs are all attempts to turn terms and sentances on their heads – or enhancing them.
 
