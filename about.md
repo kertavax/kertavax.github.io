@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-[Profile pic]
+<img src="https://dl.dropboxusercontent.com/s/6xpt7tkc69b2n9q/Egill-happy-075A9896-bw-1.jpg?dl=0" alt="">
 
 Hailing from Iceland, Egill Runar Vidarsson (Egill Rúnar Viðarsson) is an interdisciplinary designer who often wears many hats when part of various design projects. In 2012, he graduated from Iceland Academy of the Arts with a BA in Visual Communication and has since then produced works in both digital and analog formats (and various hybrids thereof). Among applications Egill favors is branding, typography, motion graphics, photography, UI/UX design, front-end development and physical computing / hacking of any kind. He is particularly interested in conceptual projects where such diverse mediums and contributions come together to realize a collective execution informed by research and exploration.
 
