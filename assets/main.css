@@ -38,6 +38,13 @@ img {
   vertical-align: middle; }
 
 /**
+ * Videos
+ */
+video {
+  width: 100%;
+  height: auto; }
+
+/**
  * Figures
  */
 figure > img {
