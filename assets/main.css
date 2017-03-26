@@ -28,7 +28,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 .highlight {
-  margin-bottom: 18px; }
+  margin-bottom: 22px; }
 
 /**
  * Images
@@ -57,7 +57,7 @@ figcaption {
  * Lists
  */
 ul, ol {
-  margin-left: 36px; }
+  margin-left: 44px; }
 
 li > ul,
 li > ol {
@@ -67,12 +67,15 @@ li > ol {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 400; }
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 700; }
 
 /**
  * Links
  */
 a {
+  font-family: "Alegreya Sans", sans-serif;
+  font-weight: 400;
   color: #2a7ae2;
   text-decoration: none; }
   a:visited {
@@ -87,7 +90,7 @@ a {
 blockquote {
   color: #828282;
   border-left: 4px solid #e8e8e8;
-  padding-left: 18px;
+  padding-left: 22px;
   font-size: 18px;
   letter-spacing: -1px;
   font-style: italic; }
@@ -119,18 +122,18 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(800px - (36px * 2));
-  max-width: calc(800px - (36px * 2));
+  max-width: -webkit-calc(800px - (44px * 2));
+  max-width: calc(800px - (44px * 2));
   margin-right: auto;
   margin-left: auto;
-  padding-right: 36px;
-  padding-left: 36px; }
+  padding-right: 44px;
+  padding-left: 44px; }
   @media screen and (max-width: 800px) {
     .wrapper {
-      max-width: -webkit-calc(800px - (36px));
-      max-width: calc(800px - (36px));
-      padding-right: 18px;
-      padding-left: 18px; } }
+      max-width: -webkit-calc(800px - (44px));
+      max-width: calc(800px - (44px));
+      padding-right: 22px;
+      padding-left: 22px; } }
 
 /**
  * Clearfix
@@ -148,6 +151,12 @@ pre {
   vertical-align: middle; }
   .icon > svg path {
     fill: #828282; }
+
+/**
+ * Table
+ */
+th, td {
+  text-align: left; }
 
 /**
  * Site header
@@ -182,7 +191,7 @@ pre {
     .site-nav {
       position: absolute;
       top: 9px;
-      right: 18px;
+      right: 22px;
       background-color: #fdfdfd;
       border: 1px solid #e8e8e8;
       border-radius: 5px;
@@ -215,11 +224,11 @@ pre {
  */
 .site-footer {
   border-top: 1px solid #e8e8e8;
-  padding: 36px 0; }
+  padding: 44px 0; }
 
 .footer-heading {
   font-size: 18px;
-  margin-bottom: 18px; }
+  margin-bottom: 22px; }
 
 .contact-list,
 .social-media-list {
@@ -229,44 +238,44 @@ pre {
 .footer-col-wrapper {
   font-size: 15px;
   color: #828282;
-  margin-left: -18px; }
+  margin-left: -22px; }
 
 .footer-col {
   float: left;
-  margin-bottom: 18px;
-  padding-left: 18px; }
+  margin-bottom: 22px;
+  padding-left: 22px; }
 
 .footer-col-1 {
-  width: -webkit-calc(35% - (36px / 2));
-  width: calc(35% - (36px / 2)); }
+  width: -webkit-calc(35% - (44px / 2));
+  width: calc(35% - (44px / 2)); }
 
 .footer-col-2 {
-  width: -webkit-calc(20% - (36px / 2));
-  width: calc(20% - (36px / 2)); }
+  width: -webkit-calc(20% - (44px / 2));
+  width: calc(20% - (44px / 2)); }
 
 .footer-col-3 {
-  width: -webkit-calc(45% - (36px / 2));
-  width: calc(45% - (36px / 2)); }
+  width: -webkit-calc(45% - (44px / 2));
+  width: calc(45% - (44px / 2)); }
 
 @media screen and (max-width: 800px) {
   .footer-col-1,
   .footer-col-2 {
-    width: -webkit-calc(50% - (36px / 2));
-    width: calc(50% - (36px / 2)); }
+    width: -webkit-calc(50% - (44px / 2));
+    width: calc(50% - (44px / 2)); }
 
   .footer-col-3 {
-    width: -webkit-calc(100% - (36px / 2));
-    width: calc(100% - (36px / 2)); } }
+    width: -webkit-calc(100% - (44px / 2));
+    width: calc(100% - (44px / 2)); } }
 @media screen and (max-width: 600px) {
   .footer-col {
     float: none;
-    width: -webkit-calc(100% - (36px / 2));
-    width: calc(100% - (36px / 2)); } }
+    width: -webkit-calc(100% - (44px / 2));
+    width: calc(100% - (44px / 2)); } }
 /**
  * Page content
  */
 .page-content {
-  padding: 36px 0; }
+  padding: 44px 0; }
 
 .page-heading {
   font-size: 20px; }
@@ -275,7 +284,7 @@ pre {
   margin-left: 0;
   list-style: none; }
   .post-list > li {
-    margin-bottom: 36px; }
+    margin-bottom: 44px; }
 
 .post-meta {
   font-size: 15.75px;
@@ -289,7 +298,7 @@ pre {
  * Posts
  */
 .post-header {
-  margin-bottom: 36px; }
+  margin-bottom: 44px; }
 
 .post-title {
   font-size: 42px;
@@ -300,7 +309,7 @@ pre {
       font-size: 36px; } }
 
 .post-content {
-  margin-bottom: 36px; }
+  margin-bottom: 44px; }
   .post-content h2 {
     font-size: 32px; }
     @media screen and (max-width: 800px) {

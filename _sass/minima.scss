@@ -1,12 +1,15 @@
 // Define defaults for each variable.
 
+$header-font-family: 'Alegreya Sans', sans-serif !default;
+$header-font-weight: 700 !default;
+
 $base-font-family: 'Alegreya', serif !default;
 $base-font-size:   18px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.7 !default;
 
-$spacing-unit:     36px !default;
+$spacing-unit:     44px !default;
 
 $text-color:       #111 !default;
 $background-color: #fdfdfd !default;

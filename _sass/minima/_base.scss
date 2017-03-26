@@ -90,8 +90,10 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: $base-font-weight;
+  font-family: $header-font-family;
+  font-weight: $header-font-weight;
 }
+
 
 
 
@@ -99,6 +101,8 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
+  font-family: $header-font-family;
+  font-weight: $header-font-weight - 300;
   color: $brand-color;
   text-decoration: none;
 
@@ -204,3 +208,11 @@ pre {
     fill: $grey-color;
   }
 }
+
+/**
+ * Table
+ */
+
+ th, td {
+  text-align: left;
+ }
