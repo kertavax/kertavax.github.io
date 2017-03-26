@@ -10,8 +10,8 @@ My first attempt at a Self-Map in 2010. I was really stuck in the vicious circle
 
 <img src="https://dl.dropboxusercontent.com/s/ndsywm0auqwaj68/piece-sleepsnooze-cover.jpg?dl=0">
 
-<img src="https://dl.dropboxusercontent.com/img/piece-sleepsnooze-detail1.jpg">
+<img src="https://dl.dropboxusercontent.com/s/zn9ob07cvewnbjq/piece-sleepsnooze-detail1.jpg?dl=0">
 
-<img src="https://dl.dropboxusercontent.com/img/piece-sleepsnooze-detail2.jpg">
+<img src="https://dl.dropboxusercontent.com/s/zn9ferd8db2o4j3/piece-sleepsnooze-detail2.jpg?dl=0">
 
-<img src="https://dl.dropboxusercontent.com/img/piece-sleepsnooze-detail3.jpg">
+<img src="https://dl.dropboxusercontent.com/s/ehqkdqnzg4ja2xl/piece-sleepsnooze-detail3.jpg?dl=0">

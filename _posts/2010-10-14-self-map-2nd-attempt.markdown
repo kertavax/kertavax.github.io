@@ -10,8 +10,6 @@ A final version of a self-map. Listed are identifiers which I related to in the 
 
 <img src="https://dl.dropboxusercontent.com/s/o3nx2eqli4ykj7y/piece-selfmap-cover.jpg?dl=0">
 
-<img src="https://dl.dropboxusercontent.com/s/zn9ob07cvewnbjq/piece-sleepsnooze-detail1.jpg?dl=0">
+<img src="https://dl.dropboxusercontent.com/s/6nzp6y9j908veu6/piece-selfmap-detail1.jpg?dl=0">
 
-<img src="https://dl.dropboxusercontent.com/s/zn9ferd8db2o4j3/piece-sleepsnooze-detail2.jpg?dl=0">
-
-<img src="https://dl.dropboxusercontent.com/s/ehqkdqnzg4ja2xl/piece-sleepsnooze-detail3.jpg?dl=0">
+<img src="https://dl.dropboxusercontent.com/s/kpnbjq5367j64va/piece-selfmap-detail2.jpg?dl=0">
