@@ -36,14 +36,14 @@ One of Egill’s main research topics at the moment is the analysis of tacit cul
 	<td>Hvita husid, advertising agency (Reykjavik, Iceland)</td>
   </tr>
   <tr>
-	<td>2010</td>
-	<td>Graphic designer</td>
-	<td>Cohn &amp; Wolfe, branding and consultation firm (Reykjavik, Iceland)</td>
-  </tr>
-  <tr>
 	<td>2009 – 2012</td>
 	<td><span class="post-smcps">ba</span> in Visual Communication</td>
 	<td>Iceland Academy of the Arts (Reykjavik, Iceland)</td>
+  </tr>
+  <tr>
+	<td>2010</td>
+	<td>Graphic designer</td>
+	<td>Cohn &amp; Wolfe, branding and consultation firm (Reykjavik, Iceland)</td>
   </tr>
   <tr>
 	<td>2008 – 2009</td>
