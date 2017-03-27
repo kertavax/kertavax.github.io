@@ -6,7 +6,7 @@ categories: racism logo competition
 context: "Iceland Academy of the Arts"
 context_link: "http://www.lhi.is/en"
 ---
-My winning submission for a logo competition run by The Icelandic Human Rights Centre regarding their European Action Week Against Racism.
+My winning submission for a logo competition run by The Icelandic Human Rights Centre regarding their _European Action Week Against Racism_.
 
 Despite having translation difficulties with the English headline, The Racist is the Other, the Human Rights Centre wanted the much needed self observation and evaluation to be obvious.
 
