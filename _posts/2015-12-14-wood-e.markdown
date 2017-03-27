@@ -12,7 +12,7 @@ Meet <span class="post-smcps">wood</span>-e.
 
 Being of the inquisitive kind, <span class="post-smcps">wood</span>-e enjoys listening for the loudest shout, whistle, bump or crash in the vicinity. As he would no doubt himself attest to – if he could – he’s not exactly one of the hard of hearing. Sporting two quite sensitive electric microphones, this curious cube tries his best at picking out the most dominant sound source with his attentive, blinking gaze.
 
-<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/HrNX3YindDk?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+<div style="position:relative;height:0;padding-bottom:56.25%;margin-bottom:12px"><iframe src="https://www.youtube.com/embed/HrNX3YindDk?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
 ### Conception of WOOD-e
 
