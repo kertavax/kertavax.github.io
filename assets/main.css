@@ -155,8 +155,10 @@ pre {
 /**
  * Table
  */
-th, td {
-  text-align: left; }
+td, th {
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid #919191; }
 
 /**
  * Site header
@@ -310,6 +312,9 @@ th, td {
   @media screen and (max-width: 800px) {
     .post-title {
       font-size: 36px; } }
+
+.post-smcps {
+  font-family: "Alegreya SC", serif; }
 
 .post-content {
   margin-bottom: 44px; }

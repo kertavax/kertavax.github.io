@@ -22,22 +22,42 @@ One of Egill’s main research topics at the moment is the analysis of tacit cul
   </tr>
   <tr>
 	<td>2015 – 2017</td>
-	<td>MDes Digital Futures</td>
-	<td>OCAD University (Toronto, Canada)</td>
+	<td><span class="post-smcps">md</span>es Digital Futures</td>
+	<td><span class="post-smcps">ocad</span> University (Toronto, Canada)</td>
   </tr>
   <tr>
-	<td>2016 (Jun – Nov)</td>
-	<td>(UI/UX Designer)</td>
-	<td>(ReBlink, or, Alex Mayhew Digital?) (Toronto, Canada)</td>
+	<td>2016</td>
+	<td>Research assistantship, <span class="post-smcps">ui/ux</span> for an <span class="post-smcps">ar</span> application</td>
+	<td><span class="post-smcps">ocad</span> University (Toronto, Canada)</td>
   </tr>
   <tr>
 	<td>2012 – 2015</td>
-	<td>New Media / Traditional</td>
+	<td>New &amp; traditional media</td>
 	<td>Hvita husid, advertising agency (Reykjavik, Iceland)</td>
   </tr>
   <tr>
+	<td>2010</td>
+	<td>Graphic designer</td>
+	<td>Cohn &amp; Wolfe, branding and consultation firm (Reykjavik, Iceland)</td>
+  </tr>
+  <tr>
 	<td>2009 – 2012</td>
-	<td>BA Visual Communication</td>
+	<td><span class="post-smcps">ba</span> in Visual Communication</td>
 	<td>Iceland Academy of the Arts (Reykjavik, Iceland)</td>
+  </tr>
+  <tr>
+	<td>2008 – 2009</td>
+	<td>Sales and support</td>
+	<td><span class="post-smcps">nova</span>, telecommunications (Reykjavik, Iceland)</td>
+  </tr>
+  <tr>
+	<td>2007 – 2008</td>
+	<td>Part-time home-entertainment technician</td>
+	<td>Vodafone, telecommunications (Reykjavik, Iceland)</td>
+  </tr>
+  <tr>
+	<td>2007 – 2008</td>
+	<td>Part-time home-entertainment technician</td>
+	<td>Vodafone (Reykjavik, Iceland)</td>
   </tr>
 </table>

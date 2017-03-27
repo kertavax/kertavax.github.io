@@ -194,7 +194,6 @@
 }
 
 
-
 /**
  * Posts
  */
@@ -210,6 +209,10 @@
   @include media-query($on-laptop) {
     font-size: 36px;
   }
+}
+
+.post-smcps {
+  font-family: $smcps-font-family;
 }
 
 .post-content {
