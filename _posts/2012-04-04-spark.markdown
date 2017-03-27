@@ -11,7 +11,7 @@ To brand and build an electric racing car.
 
 <img src="https://dl.dropboxusercontent.com/s/llika8zmca7ic69/spark-cover.jpg?dl=0" alt="">
 
-In the spring of 2011, a team of two dozen engineer and marketing students at the University of Iceland participated for the first time in the Formula Student competition. The mission of the competition is to offer a platform to international students where they can bring, to the Silverstone racing track in Britain, their own racing car and have it judged and tested.
+In the spring of 2011, a team of two dozen engineer and marketing students at the University of Iceland participated for the first time in the _Formula Student_ competition. The mission of the competition is to offer a platform to international students where they can bring, to the Silverstone racing track in Britain, their own racing car and have it judged and tested.
 
 <img src="https://dl.dropboxusercontent.com/s/ptu7k1zdx0nl8cr/lastyearwithprice_edit_smaller_1.jpg?dl=0" alt="">
 
@@ -19,7 +19,7 @@ The University of Iceland Racing Team (as the team was then known as) entered an
 
 Shortly after, the team reached out to administrators at the Iceland Academy of the Arts, asking if some of the school’s design students would be up to the task of helping out for the team’s next entry in the following year. Their original brief of collaboration involved design of the body of the car, the driver’s seat, the car’s dashboard and a rebrand overhaul of the team brand itself.
 
-The academy’s administration decided to offer this project to the departments of Visual Communication and Production Design as a graduation project. Of the few students that applied for the project, three students were picked for the proejct; myself, and production design students Dröfn Sæmundsdóttir and Kolbeinn Ísólfsson. My responsibility was the team’s rebranding and the design of the dashboard. Dröfn and Kolbeinn were to team up and solve the car’s shell and seat designs.
+The academy’s administration decided to offer this project to the departments of _Visual Communication_ and _Production Design_ as a potential collaborative graduation project. Of the few students that applied for the project, three students were picked for the project; myself, and production design students Dröfn Sæmundsdóttir and Kolbeinn Ísólfsson. My responsibility was the team’s rebranding and the design of the dashboard. Dröfn and Kolbeinn were to team up and solve the car’s shell and seat designs.
 
 While searching for inspiration in the early stages, the three of us were going through tons of automative books trying to capture something worth building on. Through our advisors’ guidance, we soon realized that we were getting ahead of ourselves by chasing aesthetics so early on. We needed to find our own reasons and therefore our own foundation to work from. A lot of research later, we stumbled upon the concept of [biomimicry](https://www.biomimicry.org/) – the notion of looking to nature’s tried and tested design iterations for human-based problem solving.
 
@@ -35,7 +35,7 @@ Dröfn, Kolbeinn and I thought this design approach extremely compelling. We wen
 
 2. In building an electric car, with focus on renewable energy, we believed that our team was taking a step towards a better future for our planet.
 
-3. The team itself was made up of over two dozen members. The work was split up into six different groups, each one with its own specific and important role; electrical, drive train, suspension, frame & body, communication and project management. All groups shared the common goal of making a working racing car, so a team spirit a d alignment was vital.
+3. The team itself was made up of over two dozen members. The work was split up into six different groups, each one with its own specific and important role; electrical, drive train, suspension, frame & body, communication and project management. All groups shared the common goal of making a working racing car, so a team spirit and alignment was vital.
 
 <img src="https://dl.dropboxusercontent.com/s/eemlp22kt94i4og/alar_yfirlit-lores.jpg?dl=0" alt="">
 
@@ -51,10 +51,11 @@ From that point on, we set ourselves a goal that everything we would work on had
 
 <img src="https://dl.dropboxusercontent.com/s/e5getmet7oovu94/wordprocess-lores.jpg?dl=0" alt="">
 
-While Dröfn and Kolbeinn went to work on the car’s body and seat, I started to work on the team’s much needed tone of voice. In the midst of an intensive session late at school, I came up with a concept that could unite the message of the team in the statement of a new name: Spark. The spark is known to be a starting point of a great potential – a humble beginning that leading to possible greatness. To participate in a entrepreneurial competition like Formula Student can spark ideas, ingenuity, relationships, interest, movements and a will to succeed. 
+While Dröfn and Kolbeinn went to work on the car’s body and seat, I started to work on the team’s much needed tone of voice. In the midst of an intensive session late at school, I came up with a concept that could unite the message of the team in the statement of a new name: _Spark_. The spark is known to be a starting point of a great potential – a humble beginning that leading to possible greatness. To participate in a entrepreneurial competition like Formula Student can spark ideas, ingenuity, relationships, interest, movements and a will to succeed.
+
 <img src="https://dl.dropboxusercontent.com/s/2e8g8l4bek7urv8/logo_skissur_1-lores.jpg?dl=0" alt="">
 
-The team’s new name needed a fitting brand mark so I went to work. Several sketching phases later, trying at all times to incorporate a sense of electricity, beginnings-of-greatness and team spirit, I came to a satisfying conclusion.
+The team’s new name needed a fitting brand mark so I went to work. Several sketching phases later, trying at all times to incorporate a sense of electricity, beginnings-of-greatness and team spirit, I came to a conclusion.
 
 The word “spark” contains five letters, with the middle letter, the letter “A”, taking a possible mainstage. Looking at the uppercase letterforms of the word, I noticed that the up-turned spike of the “A” could be turned into a part of a electrocardiogram (heart monitor line). Blocking out parts in the surrounding letters, where the line would start and end, the visual metaphor was realised within the logotype. 
 
@@ -78,13 +79,13 @@ Fast forwarding through Dröfn and Kolbeinn’s development of the car’s body 
 
 <img src="https://dl.dropboxusercontent.com/s/04fmg9nqu73ta1y/formulastudentshowroom-lores-1.jpg?dl=0" alt="">
 
-When it came to visualize our presentation of our project, our first instinct was to replicate the show rooms at the Formula Student event. These spaces really resemble racing pit-stops with oversized banners, spare tires and a space to work on the cars.
+When it came to visualizing our presentation of our project, our first instinct was to replicate the show rooms at the Formula Student event. These spaces resemble racing pit-stops with oversized banners, spare tires and a space to work on the cars.
 
 With this closed off garage type of presentation, our instructors tipped us off that we were maybe straying away from our key principles. The space felt too cramped, blocky and somehow void of air.
 
 We decided to make the obvious and previously overlooked decision; to let the car take center stage.
 
-I suggested we would then have a more fitting medium – computers or projectors – do the talking. I then made the decision to design a [website](http://www.egillrunar.com/spark/) to articulate the team’s mission and sum up the reason for the car’s existence.
+I suggested we would then have a more fitting medium – computers or projectors – do the talking. I then made the decision to design a website to articulate the team’s mission and sum up the reason for the car’s existence.
 
 <img src="https://dl.dropboxusercontent.com/s/epfj2sq22dztl0i/spark_homesplash-lores.jpg?dl=0" alt="">
 
@@ -102,8 +103,7 @@ Only two weeks until the exhibition, we realized that our presentation still fel
 
 <img src="https://dl.dropboxusercontent.com/s/72tm5fbzgxpezd8/showroom-vorpunonnurhugm-lores.jpg?dl=0" alt="">
 
-One of our instructors suggested that it could be a pretty rad idea to have the car hang from the ceiling in one way or another.
-It was one of those ideas that was just that crazy, it might actually work. And sure enough, in the nick of time before the start of the exhibition, the car was strung up.
+One of our instructors suggested that it could be a pretty rad idea to have the car hang from the ceiling in one way or another. It was one of those ideas that was just that crazy, it might actually work. And sure enough, in the nick of time before the start of the exhibition, the car was strung up.
 
 <img src="https://dl.dropboxusercontent.com/s/a6x78klopzoz9iv/hafnarhus-opnunardagur-lores-1.jpg?dl=0" alt="">
 

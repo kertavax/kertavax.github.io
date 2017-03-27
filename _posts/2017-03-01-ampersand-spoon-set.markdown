@@ -39,7 +39,7 @@ While the multiplicity angle was necessary, the sketches felt a bit too vague an
 
 <img src="https://dl.dropboxusercontent.com/s/orgip3r07fq7uci/egill-ampersand-spoons-pencil-6-lores.jpg?dl=0" alt="">
 
-As I was familiarizing myself with the Rhino-software, I experimented with the ampersand-form and how overlaps can work differently from different angles.
+As I was familiarizing myself with the Rhino software, I experimented with the ampersand-form and how overlaps can work differently from different angles.
 
 <img src="https://dl.dropboxusercontent.com/s/h380pdqd1cxbt07/prev-boxy-combo-lores.jpg?dl=0" alt="">
 

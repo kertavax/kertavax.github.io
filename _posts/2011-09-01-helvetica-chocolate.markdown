@@ -13,8 +13,7 @@ For people who’ve had their fill of the infamous, Swiss typeface.
 
 When I was in my 2nd year at the Iceland Academy of the Arts, the students were to raise funds for their graduation trip the following year. My classmates and I decided to launch a sales exhibition called [Grafian](https://www.facebook.com/grafian2011?ref=ts) (a wordplay on the word “graphic” – as in graphic design – and “mafia” – since we were planning a trip to Sicily).
 
-For some reason I knew right from the start that I wanted to play with three dimensional letterforms. I also wanted to keep the emphasis on the “play”-ful nature in the purpose the letterforms, whatever that would prove to be. At some point I thought of  alphabet soups and the consumption of letters in other ways than through eyeballs. “Maybe icecube letters?”, I wondered,
-“Or some sort of cookie dough glyphs?”
+For some reason I knew right from the start that I wanted to play with three dimensional letterforms. I also wanted to keep the emphasis on the “play”-ful nature in the purpose the letterforms, whatever that would prove to be. At some point I thought of  alphabet soups and the consumption of letters in other ways than through eyeballs. “Maybe icecube letters?”, I wondered, “or some sort of cookie dough glyphs?”
 
 During this period, I was browsing through typefaces to see which ones could be bold enough to be made into some kind of food. When I was about to dismiss Helvetica because of its overuse in the industry, I reconsidered. Why not give people a new taste of the infamous, Swiss typeface made from – of course – one of the best chocolate produced in Switzerland?
 
@@ -33,4 +32,4 @@ She asked if she could have two chocolate bars to show and give to a man named A
 
 <img src="https://dl.dropboxusercontent.com/s/t35h2idfodj97vn/piece-helveticachoc-hoffmanngift.jpg?dl=0" alt="">
 
-A few days later, Hoffmann reach out to me himself to inform me that he had conveyed the Helvetica chocolate bars to the Basel Paper Mill, the Swiss Museum for Paper, Type and Print.
+A few days later, Hoffmann reach out to me himself to inform me that he had conveyed the Helvetica chocolate bars to the _Basel Paper Mill_, the Swiss Museum for Paper, Type and Print.

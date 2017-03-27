@@ -6,7 +6,7 @@ categories: herbal medicine packaging logo branding Lóa Baldvinsdóttir
 context: "Iceland Academy of the Arts"
 context_link: "http://www.lhi.is/en"
 ---
-A unique mixture of mountain based herbs which has amazing healing powers that are released when fused with water. The mixture can be drunk, breathed in or used as a form of warm ointment on sore muscles and tendons.
+A unique mixture of mountain based herbs with healing capacities that are released when fused with water. The mixture can be drunk, breathed in or used as a form of warm ointment on sore muscles and tendons. Product by [Inga Lóa Baldvinsdóttir](https://www.facebook.com/lou.pokar).
 
 <img src="https://dl.dropboxusercontent.com/s/oeuc7u3fzp241fw/piece-nornaseydi-cover.jpg?dl=0">
 

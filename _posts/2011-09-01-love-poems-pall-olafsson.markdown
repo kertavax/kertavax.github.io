@@ -6,9 +6,9 @@ categories: poems print binding
 context: "Iceland Academy of the Arts"
 context_link: "http://www.lhi.is/en"
 ---
-A series of love poems by Páll Ólafsson named Eg skal kveða um eina þig alla mína daga (roughly translated; I will write of only you for the rest of my days). The title is impressed on a red, loose leather which covers the creamy pages within and everything is held together with a thick, texture-rich seam.
+A series of love poems by Páll Ólafsson named _Eg skal kveða um eina þig alla mína daga_ (roughly translated; _I will write of only you for the rest of my days_). The title is impressed on a red, loose leather which covers the creamy pages within and everything is held together with a thick, texture-rich seam.
 
-To lend the poems a warm, personal feeling the beautiful and humanistic serif-typeface Adobe Jenson was applied throughout the piece.
+To lend the poems a warm personal feeling, the beautiful and humanistic serif-typeface Adobe Jenson was applied throughout the piece.
 
 <img src="https://dl.dropboxusercontent.com/s/uvadll9zsbtq0xv/piece-pallolafsson-cover.jpg?dl=0">
 

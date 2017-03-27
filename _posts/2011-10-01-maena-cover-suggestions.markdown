@@ -22,6 +22,4 @@ The first version, the handwritten one, I did with my own blood. I was encourage
 
 <img src="https://dl.dropboxusercontent.com/s/em294fg2tvpbjrb/piece-maenacovers-detail4.jpg?dl=0">
 
-The last cover is the magazine’s title itself, “mæna”, which has a double meaning of stare and spine in Icelandic – bursting
-from an open mouth in the form of
-several writing tools.
+The last cover is the magazine’s title itself, “mæna”, which has a double meaning of stare and spine in Icelandic – bursting from an open mouth in the form of several writing tools.

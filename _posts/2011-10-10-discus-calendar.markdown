@@ -16,13 +16,14 @@ An assistant instructor at the Iceland Academy of the Arts for this particular c
 
 <img src="https://dl.dropboxusercontent.com/s/xbepz5vnsagkuvr/jormundur.jpg?dl=0" alt="">
 
-I decided to attempt at putting Jörmundur’s system to the test. In the process, I laid out a plan to figure
-out how the days would match up to the weeks, the weeks to the months and the months to a year. I had to keep in mind that during two months of each year the number of days were half the usual number of days.
+I decided to attempt at putting Jörmundur’s system to the test. In the process, I laid out a plan to figure out how the days would match up to the weeks, the weeks to the months and the months to a year. I had to keep in mind that during two months of each year the number of days were half the usual number of days.
 
 In the end, what I came up with was a rotating discus calendar. In keeping with the concept of time coming and going full-circle, nearly everything was made up of circles. The exceptions being the choice of typography and the straight lines dividing the days, weeks and months on their relative discs.
 
 <img src="https://dl.dropboxusercontent.com/s/mcpp57luzct8c4v/piece-disccalendar-detail3.jpg?dl=0" alt="">
 
 The outermost disc shows the 52 weeks of the year where each and every one is marked with a dwarf’s name – an old Norse tradition. Going closer towards the center, the next disc in line – and also the innermost disc – represent the weekdays with each one marked with the names of Norse gods and goddesses. The inner one has 14 days and the outer one has the usual 28 days. The months’ names are then represented by the second-from-center disc. The seasons are illustrated on two of the discs; winter is represented with a cool, blue color and summer with a contrasting warm, green color. Where the two colors meet there is fall and spring. Winter solstice and summer solstice appear in the dark blue color and the bright yellow color, respectively.
+
+Below is an animated flash version illustrating the function of the rotating calendar.
 
 <embed class="cover-flash" src="https://dl.dropboxusercontent.com/s/28wzi9iol9j6271/piece-disccalendar-cover.swf?dl=0" width="854" height="684">
