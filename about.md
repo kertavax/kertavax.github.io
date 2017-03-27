@@ -48,12 +48,12 @@ One of Egill’s main research topics at the moment is the analysis of tacit cul
   <tr>
 	<td>2008 – 2009</td>
 	<td>Sales and support</td>
-	<td><span class="post-smcps">nova</span>, telecommunications (Reykjavik, Iceland)</td>
+	<td><span class="post-smcps">nova</span>, telecoms (Reykjavik, Iceland)</td>
   </tr>
   <tr>
 	<td>2007 – 2008</td>
 	<td>Part-time home-entertainment technician</td>
-	<td>Vodafone, telecommunications (Reykjavik, Iceland)</td>
+	<td>Vodafone, telecoms (Reykjavik, Iceland)</td>
   </tr>
   <tr>
 	<td>2007 – 2008</td>
