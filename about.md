@@ -55,9 +55,4 @@ One of Egill’s main research topics at the moment is the analysis of tacit cul
 	<td>Part-time home-entertainment technician</td>
 	<td>Vodafone, telecoms (Reykjavik, Iceland)</td>
   </tr>
-  <tr>
-	<td>2007 – 2008</td>
-	<td>Part-time home-entertainment technician</td>
-	<td>Vodafone (Reykjavik, Iceland)</td>
-  </tr>
 </table>
