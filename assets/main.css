@@ -29,7 +29,7 @@ em {
  */
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
-ul, ol, dl, figure,
+ul, ol, dl, figure
 .highlight {
   margin-bottom: 22px; }
 
@@ -79,10 +79,10 @@ h1, h2, h3, h4, h5, h6 {
 a {
   font-family: "Alegreya Sans", sans-serif;
   font-weight: 400;
-  color: #2a7ae2;
+  color: #1a9bde;
   text-decoration: none; }
   a:visited {
-    color: #1756a9; }
+    color: #126b9a; }
   a:hover {
     color: #111;
     text-decoration: underline; }
