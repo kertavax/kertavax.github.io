@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Egill Rúnar Viðarsson
-email: kertavax@gmail.com
+email: egillrunar@egillrunar.com
 description: > # this means to ignore newlines until "baseurl:"
   The work-in-progress assembly of Egill Rúnar Viðarsson’s portfolio
 baseurl: "" # the subpath of your site, e.g. /blog
