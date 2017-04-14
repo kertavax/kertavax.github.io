@@ -13,7 +13,7 @@ context_link: "http://www.ocadu.ca/academics/graduate-studies/digital-futures.ht
 
 Players act as partners at a small-scale publishing company where their collaborative purpose is to publish works of aspiring authors while simultaneously facing various events and maintaining the firm’s reputation along the way.
 
-<div style="position:relative;height:0;padding-bottom:56.25%;margin-bottom:12px"><iframe src="https://www.youtube.com/embed/HrNX3YindDk?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/HsSnLASRaqc?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
 Holacracy is a peer-to-peer organizational system formally launched in 2007 from the realm of software development. Often referenced as a software update to conventional management practices, Holacracy powers hundreds of organizations worldwide that favor continuous iterations to both operational and organizational structures. In the literature review and primary qualitative data gathered via rapid ethnographic fieldwork it became apparent that organizations wanting to implement Holacracy can expect a steep, initial learning curve due to the rule-based – sometimes counter-intuitive – decision-making methods instilled in the method.
 
