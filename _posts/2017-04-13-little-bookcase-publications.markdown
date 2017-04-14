@@ -35,6 +35,6 @@ The game of “Little Bookcase Publications” is based on a peer-to-peer organi
 
 Therefore, the game is not meant to learn about the entire processes and artifacts of Holacracy, or replace any certified coaching or implementations of the method.
 
-For those interested in learning more about Holacracy and how to adopt the system for actual organizations, kindly reach out to certified Holacracy providers such as [HolacracyOne](http://www.holacracy.org/holacracyone), [igi Partners](igipartners.com/en/), [Energized.org](http://energized.org/en/), and more.
+For those interested in learning more about Holacracy and how to adopt the system for actual organizations, kindly reach out to certified Holacracy providers such as [HolacracyOne](http://www.holacracy.org/holacracyone), [igi Partners](www.igipartners.com/en/), [Energized.org](http://energized.org/en/), and more.
 
 (_To be added following the graduate thesis exhibition of April 13 – 18: further information, rulebook, inclusion of a link to final thesis document_)
