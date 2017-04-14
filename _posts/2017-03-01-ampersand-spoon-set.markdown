@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ampersand Spoon-Set"
-date:   2017-03-1
+date:   2017-03-01
 categories: 3D-printing
 context: "OCAD University"
 context_link: "http://www.ocadu.ca/academics/graduate-studies/digital-futures.htm"
