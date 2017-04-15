@@ -5,6 +5,7 @@ date:   2017-04-13
 categories: thesis graduate holacracy co-operative
 context: "OCAD University"
 context_link: "http://www.ocadu.ca/academics/graduate-studies/digital-futures.htm"
+permalink: /little-bookcase-publications/
 ---
 
 “Little Bookcase Publications” is a 2017 <span class="post-smcps">md</span>es thesis project done at <span class="post-smcps">ocad</span> University. The project is a four-player co-operative board game which offers an experiential hands-on understanding of Holacracy fundamentals via contextualized simulation.
