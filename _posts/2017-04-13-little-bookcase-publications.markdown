@@ -2,13 +2,15 @@
 layout: post
 title:  "Little Bookcase Publications: MDes Thesis Project"
 date:   2017-04-13
-categories: thesis graduate holacracy co-operative
+categories: thesis graduate holacracy co-operative game
 context: "OCAD University"
 context_link: "http://www.ocadu.ca/academics/graduate-studies/digital-futures.htm"
 permalink: /little-bookcase-publications/
 ---
 
-“Little Bookcase Publications” is a 2017 <span class="post-smcps">md</span>es thesis project done at <span class="post-smcps">ocad</span> University. The project is a four-player co-operative board game which offers an experiential hands-on understanding of Holacracy fundamentals via contextualized simulation.
+“Little Bookcase Publications” (v.3.0) is a 2017 <span class="post-smcps">md</span>es thesis project done at <span class="post-smcps">ocad</span> University. The project is a four-player co-operative board game which offers an experiential hands-on understanding of Holacracy fundamentals via contextualized simulation.
+
+Follow <a href="http://openresearch.ocadu.ca/id/eprint/1623/1/Vidarsson_Egill_2017_MDes_DigitalFutures_LearningHolacracyThroughPlay.pdf" target="_blank">this link</a> to access the latest version’s rulebook and the thesis paper itself. The latter documents in great detail the development and theoretical frameworks used to realize the co-operative board game.
 
 <img src="https://dl.dropboxusercontent.com/s/xupmut9y1wuyq4w/little-bookcase-publications-cover.jpg?dl=0" alt="">
 
@@ -24,7 +26,7 @@ Holacracy is a peer-to-peer organizational system formally launched in 2007 from
 
 <img src="https://dl.dropboxusercontent.com/s/2p9pvnn64lxtw3w/little-bookcase-detail-3.jpg?dl=0" alt="">
 
-Further insights were gained from the field of organizational development, studies of role performativity and play theory along with an iterative research-oriented design process. As a part of the Master of Design project for Digital Futures at <span class="post-smcps">ocad</span> University, the aim for “Little Bookcase Publications” was to explore what fundamental processes and elements of Holacracy might be extracted to fit an introductory game to ease the learning of the method.
+Further insights were gained from the field of organizational development, studies of role performance and play theory along with an iterative research-oriented design process. As a part of the Master of Design project for Digital Futures at <span class="post-smcps">ocad</span> University, the aim for “Little Bookcase Publications” was to explore what fundamental processes and elements of Holacracy might be extracted to fit an introductory game to ease the learning of the method.
 
 <img src="https://dl.dropboxusercontent.com/s/qmh6efvikrw8f0z/little-bookcase-detail-4.jpg?dl=0" alt="">
 
@@ -32,10 +34,8 @@ Further insights were gained from the field of organizational development, studi
 
 ### Disclaimer
 
-The game of “Little Bookcase Publications” is based on a peer-to-peer organizational system called [Holacracy](www.holacracy.org). The game-mechanics have been developed as a part of an <span class="post-smcps">md</span>es thesis project, and its culmination attempts to introduce the method’s fundamentals through customized gameplay to help with on-boarding.
+The game of “Little Bookcase Publications” is based on a peer-to-peer organizational system called <a href="https://www.holacracy.org)" target="_blank"> Holacracy</a>. The game-mechanics have been developed as a part of an <span class="post-smcps">md</span>es thesis project, and its culmination attempts to introduce the method’s fundamentals through customized gameplay to help with on-boarding.
 
 Therefore, the game is not meant to learn about the entire processes and artifacts of Holacracy, or replace any certified coaching or implementations of the method.
 
-For those interested in learning more about Holacracy and how to adopt the system for actual organizations, kindly reach out to certified Holacracy providers such as [HolacracyOne](http://www.holacracy.org/holacracyone), [igi Partners](http://www.igipartners.com/en/), [Energized.org](http://energized.org/en/), and more.
-
-(_To be added following the graduate thesis exhibition of April 13 – 18: further information, rulebook, inclusion of a link to final thesis document_)
+For those interested in learning more about Holacracy and how to adopt the system for actual organizations, kindly reach out to certified Holacracy providers such as <a href="http://www.holacracy.org/holacracyone" target="_blank">HolacracyOne</a>, <a href="http://www.igipartners.com/en/" target="_blank">igi Partners</a>, <a href="http://energized.org/en/" target="_blank">Energized.org</a>, and [more](http://www.holacracy.org/implement).
