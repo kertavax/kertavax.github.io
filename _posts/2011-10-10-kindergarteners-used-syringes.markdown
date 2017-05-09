@@ -2,7 +2,7 @@
 layout: post
 title:  "Kindergarteners and Used Syringes"
 date:   2011-09-10
-categories: herbal medicine packaging logo branding Lóa Baldvinsdóttir
+categories: packaging logo branding Lóa Baldvinsdóttir
 context: "Iceland Academy of the Arts"
 context_link: "http://www.lhi.is/en"
 ---
@@ -17,4 +17,3 @@ In order to awaken a feeling of discomfort and worry—hopefully with a call to 
 <img src="https://dl.dropboxusercontent.com/s/ebb1aibznyfga8o/piece-kindersyringes-detail1.jpg?dl=0">
 
 <img src="https://dl.dropboxusercontent.com/s/f1pi9mjw227jib2/piece-kindersyringes-detail4.jpg?dl=0">
-
